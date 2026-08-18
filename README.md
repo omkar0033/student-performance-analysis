@@ -28,3 +28,55 @@ student-performance-analysis/
 ├── Figure_1.png
 ├── requirements.txt
 └── README.md
+```
+## 📈 Data Visualization
+
+The project includes data visualization using Matplotlib to make student performance easier to understand.
+
+![Student Performance Visualization](Figure_1.png)
+
+## 📊 Sample Results
+
+- Average Marks: **82.5**
+- Highest Marks: **95**
+- Lowest Marks: **69**
+- Top Performing Student: **Rohit - 95**
+
+## ⚙️ How to Run
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the project
+
+```bash
+python student_performance.py
+```
+
+## 📚 What I Learned
+
+- Working with CSV datasets
+- Data analysis using Pandas
+- Basic statistical analysis
+- Data visualization using Matplotlib
+- Managing Python project dependencies
+- Using Git and GitHub
+
+## 🔮 Future Improvements
+
+- Add grade classification
+- Add subject-wise performance analysis
+- Add more performance metrics
+- Add interactive visualizations
+- Build a student performance dashboard
+
+## 👨‍💻 Author
+
+**Omkar Ingale**
+
+B.Tech Information Technology Student
+
+- GitHub: https://github.com/omkar0033
+- LinkedIn: https://www.linkedin.com/in/omkar-ingle-63b313311/
