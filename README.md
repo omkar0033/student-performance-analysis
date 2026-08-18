@@ -1,6 +1,6 @@
 # 📊 Student Performance Analysis
 
-A simple data analysis project built using **Python, Pandas, and Matplotlib** to analyze student marks and identify performance insights.
+A Python-based data analysis project that analyzes student marks and provides useful performance insights using Pandas and Matplotlib.
 
 ## 🚀 Features
 
@@ -9,8 +9,7 @@ A simple data analysis project built using **Python, Pandas, and Matplotlib** to
 - Finds the highest marks
 - Finds the lowest marks
 - Identifies the top-performing student
-- Uses Pandas for data analysis
-- Uses Matplotlib for data visualization
+- Creates data visualizations using Matplotlib
 
 ## 🛠️ Technologies Used
 
@@ -26,5 +25,6 @@ student-performance-analysis/
 │
 ├── student_performance.py
 ├── student_data.csv
+├── Figure_1.png
 ├── requirements.txt
 └── README.md
